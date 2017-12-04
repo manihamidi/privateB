@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='privatelibb',
     version='1.0.0',
-    packages=[''],
+    packages=['privatelibb'],
     url='',
     license='',
     author='Mani',
